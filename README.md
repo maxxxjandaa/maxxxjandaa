@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxxxjandaa
 - 👀 I’m interested in doing a web sites
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript/PHP
 - 📫 How to reach me: try my email
 - ⚡ Fun fact: I like pizza
 
